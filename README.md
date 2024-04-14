@@ -1,5 +1,5 @@
 # MinecraftServer
-Minecraft PaglaSMP
+
 [![MasterHead](https://github.com/MSRTanim/all-REDME/blob/b0ae2efd0f8da673eab449ab29c88fc58f810a39/gamer1.gif)](http://www.msrtanim.xyz)
 
 
